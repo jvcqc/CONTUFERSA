@@ -1,10 +1,10 @@
-📈 **CONTUFERSA - Controladoria e Transparência UFERSA**
+## 📈 CONTUFERSA - Controladoria e Transparência da UFERSA
 
 Este repositório contém os recursos, códigos e análises desenvolvidos para o Trabalho de Conclusão de Curso (TCC) intitulado: "Dashboard para Tomada de Decisão: O que a Universidade precisa saber?".
 
 O CONTUFERSA é uma ferramenta desenvolvida em Python para automatizar a leitura e análise de dados da Universidade Federal Rural do Semi-árido. O objetivo principal é facilitar a visualização das despesas, auxiliando os gestores na tomada de decisão baseada em dados reais extraídos diretamente das bases públicas.
 
-🚀 **Funcionalidades**  
+## 🚀 Funcionalidades
 
 - **Extração Automática:** Leitura de arquivos CSV/Excel contendo dados do Tesouro Direto.
 - **Tratamento de Dados:** Limpeza e organização de datas, taxas e preços utilizando `pandas`.
